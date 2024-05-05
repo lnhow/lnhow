@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a developer who specializes in front-end web development. Occasionally, I dabble in various stuff such as automation (webhooks, automation e2e testing), ComfyUI, Flutter, and many more.
+
+Outside of coding, some of my passions are photography, photo editing, PCs, and tech gadgets.
+
 <!--
 **lnhow/lnhow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
