@@ -1,34 +1,65 @@
-### Hi there 👋
+### 👋 Hi, I'am Hào
 
-I'm a developer who specializes in frontend web development. Occasionally, I dabble in various stuff such as UI/UX design, backend development, automation (webhooks, e2e testing), Flutter, and many more.
+- A Frontend Developer from Vietnam
+- Take pictures with my camera from time to time
+- An enjoyer of good design and art (UX, games, music, urban design, ...)
 
-I aspire to be somebody who can solve complex problems, someone that others can always depend on. Always eager to broaden my experiences, learn more and experiment more. Currently, I am focusing on being more knowledgeable on designing, architecturing and solutions.
+---
 
-Outside of the stuff above, some of my passions are photography, photo editing, PCs, and tech gadgets.
+#### I work with these regularly
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+#### And touch a bit of these from time to time
+
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 
 ---
 
 <p align= "center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lnhow&show_icons=true&theme=blueberry&include_all_commits=true"
+      srcset="https://github-readme-stats-bice-beta.vercel.app/api?username=lnhow&show_icons=true&theme=catppuccin_mocha&include_all_commits=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lnhow&show_icons=true&theme=catppuccin_latte&include_all_commits=true"
+      srcset="https://github-readme-stats-bice-beta.vercel.app/api?username=lnhow&show_icons=true&theme=catppuccin_latte&include_all_commits=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=lnhow&show_icons=true&theme=transparent&include_all_commits=true" alt="Hao Le GitHub's Stats" />
+    <img height="150" src="https://github-readme-stats-bice-beta.vercel.app/api?username=lnhow&show_icons=true&theme=transparent&include_all_commits=true" alt="Hao Le GitHub's Stats" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lnhow&layout=compact&theme=blueberry"
+      srcset="https://github-readme-stats-bice-beta.vercel.app/api/top-langs/?username=lnhow&layout=compact&theme=catppuccin_mocha"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lnhow&layout=compact&theme=catppuccin_latte"
+      srcset="https://github-readme-stats-bice-beta.vercel.app/api/top-langs/?username=lnhow&layout=compact&theme=catppuccin_latte"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnhow&layout=compact&theme=transparent" alt="Hao Le's Most Used Languages" />
+    <img height="150" src="https://github-readme-stats-bice-beta.vercel.app/api/top-langs/?username=lnhow&layout=compact&theme=transparent" alt="Hao Le's Most Used Languages" />
   </picture>
 </p>
